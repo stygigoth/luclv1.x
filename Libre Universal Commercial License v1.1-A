@@ -1,5 +1,5 @@
 LIBRE UNIVERSAL COMMERCIAL LICENSE - A
-Version 1, 17 February 2022
+Version 1.1, 17 February 2022
 
 Copyright © 2022 Nyx Williams
 Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
@@ -16,5 +16,6 @@ A “modification” refers to a work utilizing any source code from a covered w
 
 1. Usage.
 The maintainers of covered work are permitted to limit the source code of the work to consumers, however, at the minimum, consumers MUST be able to obtain by request a copy of the source code at any time.
+Consumers who have requested the source code are disallowed from distributing said source code.
 
-Any modification MUST be licensed under the Libre Universal Commercial License – B, and no other licenses.
+Any modification MUST be licensed under the Libre Universal Commercial License – B version 1.1, and no other licenses.
